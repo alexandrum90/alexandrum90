@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 💻 Aspiring Future Software Developer
-- 
+- 💻📱 Aspiring - Future iOS Developer
+
 
 
