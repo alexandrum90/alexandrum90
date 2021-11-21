@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-- 💻📱 Aspiring - Future iOS Developer
+- Aspiring C# Developer
 
 
 
