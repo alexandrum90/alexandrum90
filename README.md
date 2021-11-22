@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Aspiring C# Developer
+- Some food for thought ... 
 
 
 
