@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Some food for thought ... 
+- Some food for ...
 
 
 
